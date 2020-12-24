@@ -15,10 +15,11 @@ class Card():
 
 def generate_deck():
     # TODO
+    # make sure to shuffle here !
     return deckOfCards
 
 
-def isSet():
+def isSet(card1,card2,card3):
     # TODO:
     return
 
